@@ -93,7 +93,6 @@ D:\One Drive\OneDrive - Espire Infolabs Pvt. Ltd\Projects-18-06-2018\DemoSocialA
 D:\One Drive\OneDrive - Espire Infolabs Pvt. Ltd\Projects-18-06-2018\DemoSocialAPI\DemoSocialAPI\bin\Microsoft.AI.WindowsServer.xml
 D:\One Drive\OneDrive - Espire Infolabs Pvt. Ltd\Projects-18-06-2018\DemoSocialAPI\DemoSocialAPI\bin\Microsoft.AI.Web.xml
 D:\One Drive\OneDrive - Espire Infolabs Pvt. Ltd\Projects-18-06-2018\DemoSocialAPI\DemoSocialAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\One Drive\OneDrive - Espire Infolabs Pvt. Ltd\Projects-18-06-2018\DemoSocialAPI\DemoSocialAPI\obj\Debug\DemoSocialAPI.csprojAssemblyReference.cache
 D:\One Drive\OneDrive - Espire Infolabs Pvt. Ltd\Projects-18-06-2018\DemoSocialAPI\DemoSocialAPI\obj\Debug\DemoSocialAPI.csproj.CoreCompileInputs.cache
 D:\One Drive\OneDrive - Espire Infolabs Pvt. Ltd\Projects-18-06-2018\DemoSocialAPI\DemoSocialAPI\obj\Debug\DemoSocialAPI.csproj.CopyComplete
 D:\One Drive\OneDrive - Espire Infolabs Pvt. Ltd\Projects-18-06-2018\DemoSocialAPI\DemoSocialAPI\obj\Debug\DemoSocialAPI.dll
